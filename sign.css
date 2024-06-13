@@ -1,0 +1,69 @@
+body{
+    
+    background : url(hoh.jpg) ;
+    
+    background-size: cover;
+} 
+input[type="submit"]{
+    background-color: #1b75cf;
+    color:white;
+    border: 2px solid #f3f4f5;
+    size: 10px 20px;
+    padding:    20px;
+    border: 1px solid #ccc;
+    outline: 0;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin: 10px;
+    margin-left: 30px;
+    
+}
+input[id="sign"]{
+    background-color: #cfb016;
+    color: black;
+    border: 2px solid black;
+    size: 10px 20px;
+    
+    
+}
+.sq{
+   
+    text-align:center ;
+    color: rgb(0, 94, 255);
+    
+}
+.welcome{
+    color:white;
+    background-color: rgb(72, 4, 93);
+    border-radius: 10px;
+}
+.f{
+    text-align: center;
+    margin-right:50px;
+    margin-top: 30px;
+    margin-left: 950px;
+    border-radius: 20px;
+    max-height: 30px; 
+    
+}
+#sub{
+    
+        height: 35px;
+        width: 80px;
+        border: 2px solid var( --color-darkblue);
+        vertical-align: middle;
+        font-size: 18px;
+        font-family: 'Poppins',sans-serif;
+        font-weight: bold;
+        box-shadow: 0 3px rgb(138, 90, 1);
+        padding-left: 3px ;
+        margin-left: 5px;
+        cursor:pointer;
+        border-radius: 5px;
+        color: rgb(9, 9, 192);
+        background-color: rgb(216, 159, 53);
+    
+    
+    
+}
